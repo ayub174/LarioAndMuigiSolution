@@ -15,4 +15,10 @@ Given the a list of numbers, return the list so that the values increment by 1 f
 public class Solution {
 
 
+
+    public static int[] newList(int[] inputList)
+    {
+        return inputList;
+    }
+
 }
